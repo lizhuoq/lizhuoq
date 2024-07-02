@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2023 - To: 01 July 2024
+From: 02 July 2023 - To: 01 July 2024
 
-Total Time: 996 hrs 16 mins
+Total Time: 807 hrs 22 mins
 
-Python             808 hrs 20 mins ████████████████████░░░░░   80.23 %
-Bash               63 hrs 14 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Markdown           31 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-TeX                17 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Go                 13 hrs 36 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Text               13 hrs 25 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Other              11 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Python             629 hrs 50 mins ███████████████████▒░░░░░   77.03 %
+Bash               63 hrs 45 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Markdown           27 hrs 57 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+TeX                17 hrs 1 min    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Go                 13 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Text               13 hrs 14 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Other              10 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
