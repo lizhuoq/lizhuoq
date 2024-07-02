@@ -6,6 +6,9 @@ on:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
+  push:
+    branches:
+      - main  # 可以根据需要修改为其他分支名称
 
 jobs:
   update-readme:
