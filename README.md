@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2023 - To: 17 September 2024
+From: 19 September 2023 - To: 18 September 2024
 
-Total Time: 712 hrs 50 mins
+Total Time: 712 hrs 36 mins
 
-Python             536 hrs 11 mins ██████████████████▓░░░░░░   74.05 %
-Bash               75 hrs 15 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+Python             536 hrs 11 mins ██████████████████▓░░░░░░   74.07 %
+Bash               75 hrs 15 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
 Markdown           17 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 TeX                17 hrs 1 min    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 Text               14 hrs 57 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
