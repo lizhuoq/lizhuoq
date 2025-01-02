@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 31 December 2024
+From: 02 January 2024 - To: 01 January 2025
 
-Total Time: 666 hrs 25 mins
+Total Time: 666 hrs 23 mins
 
-Python             506 hrs 34 mins ██████████████████▓░░░░░░   74.39 %
+Python             506 hrs 32 mins ██████████████████▓░░░░░░   74.39 %
 Bash               93 hrs 25 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
 Markdown           17 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 Other              14 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
