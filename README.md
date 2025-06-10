@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2024 - To: 08 June 2025
+From: 09 June 2024 - To: 09 June 2025
 
-Total Time: 425 hrs 11 mins
+Total Time: 420 hrs 37 mins
 
-Python        351 hrs 10 mins ████████████████████▒░░░░   80.72 %
-Bash          45 hrs 37 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-Other         9 hrs 52 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Python        348 hrs 13 mins ████████████████████▒░░░░   80.89 %
+Bash          44 hrs 20 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Other         9 hrs 52 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
