@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2024 - To: 17 June 2025
+From: 18 June 2024 - To: 18 June 2025
 
-Total Time: 392 hrs 36 mins
+Total Time: 389 hrs 58 mins
 
-Python        325 hrs 14 mins ████████████████████▒░░░░   81.37 %
-Bash          39 hrs 58 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-CSV           9 hrs 26 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Markdown      9 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Other         7 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Python        323 hrs 25 mins ████████████████████▒░░░░   81.50 %
+Bash          39 hrs 10 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+CSV           9 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Markdown      9 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Other         6 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
