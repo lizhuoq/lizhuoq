@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2025 - To: 16 March 2026
+From: 17 March 2025 - To: 17 March 2026
 
-Total Time: 214 hrs 9 mins
+Total Time: 209 hrs 17 mins
 
-Python        147 hrs 55 mins       █████████████████░░░░░░░░   68.13 %
-Markdown      20 hrs 15 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-Fortran       18 hrs 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-CSV           16 hrs 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Other         2 hrs 58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Python        143 hrs 5 mins        █████████████████░░░░░░░░   67.41 %
+Markdown      20 hrs 15 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+Fortran       18 hrs 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+CSV           16 hrs 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+Other         2 hrs 58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
