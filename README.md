@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 04 April 2026
+From: 05 April 2025 - To: 05 April 2026
 
-Total Time: 213 hrs 24 mins
+Total Time: 211 hrs 15 mins
 
-Python        143 hrs 21 mins       ████████████████▓░░░░░░░░   66.25 %
-Markdown      20 hrs 34 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-Fortran       18 hrs 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-CSV           16 hrs 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-Dart          4 hrs 9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Other         2 hrs 58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Python        139 hrs 59 mins       ████████████████▒░░░░░░░░   65.35 %
+Markdown      20 hrs 34 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Fortran       18 hrs 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+CSV           16 hrs 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+Dart          5 hrs 31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other         2 hrs 58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
