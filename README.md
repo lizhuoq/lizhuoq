@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2025 - To: 29 July 2026
+From: 30 July 2025 - To: 30 July 2026
 
-Total Time: 185 hrs 31 mins
+Total Time: 185 hrs 1 min
 
-Python        113 hrs 37 mins       ███████████████░░░░░░░░░░   60.10 %
-Markdown      22 hrs 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-Fortran       18 hrs 49 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-CSV           17 hrs 26 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Dart          5 hrs 39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Python        113 hrs 24 mins       ███████████████░░░░░░░░░░   60.14 %
+Markdown      21 hrs 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Fortran       18 hrs 49 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+CSV           17 hrs 26 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+Dart          5 hrs 39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 Other         3 hrs 31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
